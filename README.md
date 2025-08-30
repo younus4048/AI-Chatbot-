@@ -11,3 +11,6 @@ How to Run:
 python task3.py
 
 output:
+
+![WhatsApp Image 2025-08-30 at 21 53 51_82b669d3](https://github.com/user-attachments/assets/917ac61e-d137-4438-b5c9-641b1239dde0)
+
